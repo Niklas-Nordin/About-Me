@@ -102,8 +102,12 @@ header {
 
 .me {
     font-weight: 700;
-    font-size: 28px;
     margin: 8rem 0 1rem 0;
+}
+
+.me h3 {
+    font-size: 26px;
+    margin-bottom: 2rem;
 }
 
 .me span {
@@ -590,6 +594,13 @@ section h2 {
 
     .contact-information, .contact-info {
         font-size: 58px;
+    }
+
+    @media (min-width: 1000px) {
+        .me h3 {
+            font-size: 46px;
+            margin-right: 1rem
+        }
     }
 
 }
