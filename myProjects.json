@@ -20,7 +20,7 @@
     },
     {
       "name": "Todo List",
-      "description": "En ToDo-applikation med lokal lagring",
+      "description": "A to-do list with focus on backend, built with Node.js, Express and mySQL. It allows users to create, read, update and delete tasks.",
       "img": "../img/Projects/my_first_backend.png",
       "url": "https://github.com/Niklas-Nordin/My_first_backend"
     },

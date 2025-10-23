@@ -78,7 +78,6 @@ header {
 .nav-bar a {
     text-decoration: none;
     color: white;
-    color: rgb(51, 51, 51)
 }
 
 .nav-bar a:hover {
@@ -432,6 +431,7 @@ section h2 {
 
     .nav-bar a {
        margin: 0 0.5rem;
+       color: rgb(51, 51, 51);
     }
 
     .hamburger-menu {
