@@ -590,7 +590,7 @@ section h2 {
     /* ---- HERE STARTS CONTACT.HTML ---- */
 
     .contact-information, .contact-info {
-        font-size: 58px;
+        font-size: 56px;
     }
 
     @media (min-width: 1200px) {
