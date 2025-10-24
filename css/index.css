@@ -373,6 +373,10 @@ section h2 {
 
 /*------HERE STARTS CONTACT.HTML------*/
 
+.contact {
+    margin-top: 10rem;
+}
+
 .contact-info span {
     background: var(--footer);
     background-clip: text;
@@ -380,7 +384,7 @@ section h2 {
 }
 
 .contact-information {
-    font-size: 16pt;
+    font-size: 26pt;
 }
 
 .contact, .contact-info {
@@ -391,7 +395,7 @@ section h2 {
 }
 
 .contact-info {
-    font-size: 20pt;
+    font-size: 22pt;
     margin-top: 2rem;
 }
 
@@ -587,10 +591,6 @@ section h2 {
     }
 
     /* ---- HERE STARTS CONTACT.HTML ---- */
-
-    .contact {
-        margin-top: 10rem;
-    }
 
     .contact-information, .contact-info {
         font-size: 58px;
