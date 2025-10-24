@@ -384,7 +384,7 @@ section h2 {
 }
 
 .contact-information {
-    font-size: 26pt;
+    font-size: 20pt;
 }
 
 .contact, .contact-info {
@@ -395,7 +395,7 @@ section h2 {
 }
 
 .contact-info {
-    font-size: 22pt;
+    font-size: 20pt;
     margin-top: 2rem;
 }
 
@@ -502,10 +502,6 @@ section h2 {
         padding: 2rem;
         border-radius: 15px;
         box-shadow: 0 2px 10px 0;
-    }
-
-    .hr-line {
-        /* display: none; */
     }
 
     .li-logo {
