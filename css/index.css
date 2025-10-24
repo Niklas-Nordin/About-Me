@@ -455,6 +455,7 @@ section h2 {
         flex-direction: row;
         align-items: center;
         justify-content: space-between;
+        gap: 3rem;
         margin-top: 12rem;
         font-size: 50px;
     }
@@ -596,10 +597,9 @@ section h2 {
         font-size: 58px;
     }
 
-    @media (min-width: 1000px) {
+    @media (min-width: 1200px) {
         .me h3 {
             font-size: 46px;
-            margin-right: 1rem
         }
     }
 
