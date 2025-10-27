@@ -21,6 +21,8 @@ body {
     font-family: "Poppins", sans-serif;
     font-style: normal;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     background: linear-gradient(to top left, rgba(11, 159, 218, 0.2),  rgba(64, 173, 216, 0.05), rgba(11, 159, 218, 0.15));}
 
 .left-corner-logo {
@@ -37,16 +39,15 @@ body {
 }
 
 footer{
-    display: flex;
     text-align: center;
     font-size: 12px;
     width: 100%;
-    min-height: 50vh;
+    margin-top: auto;
 }
 
 .footer {
     width: 100%;
-    margin-top: auto;
+    padding-top: 4rem;
 }
 
 @media (min-width: 768px) {
