@@ -17,7 +17,7 @@
       "name": "Todo List TypeScript",
       "description": "This is a todo list application built with TypeScript and local storage. It allows users to add, delete, edit and mark tasks as completed.",
       "img": "../img/Projects/ToDoList_TypeScript.png",
-      "url": "https://github.com/Niklas-Nordin/ToDoList-TypeScript"
+      "url": "https://todo-list-typescript-weld.vercel.app/"
     },
     {
       "name": "The Job Chaser",
