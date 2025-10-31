@@ -1,16 +1,17 @@
 {
   "projects": [
     {
+      "name": "React Quiz App",
+      "description": "This is a quiz app build with focus on useReducer. The styling is not responsive for tablet or desktop yet, I've just had the time to focus on mobile version",
+      "githubRepo": "https://github.com/Niklas-Nordin/React-quiz-app",
+      "img": "../img/Projects/react-quiz.png",
+      "url": "https://react-quiz-app-gules.vercel.app/"
+    },
+    {
       "name": "Trullo",
       "description": "Here can you create projects, add tasks to them. You can also assign users to the tasks. This project follows the CRUD operation. For now, it's just a backend, but frontend will be added later. You can find info to test the endpoints in README.md",
       "img": "../img/Projects/trulloProject.png",
       "url": "https://github.com/Niklas-Nordin/Trullo"
-    },
-    {
-      "name": "The Job Chaser",
-      "description": "A job application tracker web app built with React (context & redux) and TypeScript. It allows users to sign up/sign in and search, filter and sort jobs.",
-      "img": "../img/Projects/jobChaserProject.png",
-      "url": "https://github.com/Niklas-Nordin/JobChaser"
     },
     {
       "name": "Todo List TypeScript",
@@ -19,17 +20,16 @@
       "url": "https://github.com/Niklas-Nordin/ToDoList-TypeScript"
     },
     {
+      "name": "The Job Chaser",
+      "description": "A job application tracker web app built with React (context & redux) and TypeScript. It allows users to sign up/sign in and search, filter and sort jobs.",
+      "img": "../img/Projects/jobChaserProject.png",
+      "url": "https://github.com/Niklas-Nordin/JobChaser"
+    },
+    {
       "name": "Todo List",
       "description": "A to-do list with focus on backend, built with Node.js, Express and mySQL. It allows users to create, read, update and delete tasks.",
       "img": "../img/Projects/my_first_backend.png",
       "url": "https://github.com/Niklas-Nordin/My_first_backend"
-    },
-    {
-      "name": "React Quiz App",
-      "description": "This is a quiz app build with focus on useReducer. The styling is not responsive for tablet or desktop yet, I've just had the time to focus on mobile version",
-      "githubRepo": "https://github.com/Niklas-Nordin/React-quiz-app",
-      "img": "../img/Projects/react-quiz.png",
-      "url": "https://react-quiz-app-gules.vercel.app/"
     }
   ]
 }
