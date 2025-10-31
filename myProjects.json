@@ -25,10 +25,11 @@
       "url": "https://github.com/Niklas-Nordin/My_first_backend"
     },
     {
-      "name": "Date Counter",
-      "description": "This is a simple date counter app that calculates the time thats left until a specific date.",
-      "img": "../img/Projects/dateCounter.png",
-      "url": "https://github.com/Niklas-Nordin/DateCounter"
+      "name": "React Quiz App",
+      "description": "This is a quiz app build with focus on useReducer. The styling is not responsive for tablet or desktop yet, I've just had the time to focus on mobile version",
+      "githubRepo": "https://github.com/Niklas-Nordin/React-quiz-app",
+      "img": "../img/Projects/react-quiz.png",
+      "url": "https://react-quiz-app-gules.vercel.app/"
     }
   ]
 }
