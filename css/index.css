@@ -272,6 +272,7 @@ section h2 {
 
 .li-logo p {
     font-size: 12pt;
+    text-align: center;
 }
 
 .hr-line {
@@ -539,7 +540,7 @@ section h2 {
         margin-left: 0.5rem;
     }
 
-    .work, .time, .location {
+    .work, .time, .location, .study {
         color: var(--info);
     }
 
@@ -630,5 +631,17 @@ section h2 {
 
     .stack-part {
         color: var(--primary-text-color);
+    }
+
+    .icon-title {
+        color: var(--primary-text-color);
+    }
+
+    .job-title {
+        color: var(--primary-text-color-dark)
+    }
+
+    .education-title {
+        color: var(--primary-text-color-dark)
     }
 }
